@@ -15,8 +15,8 @@ This repository contains my personal study notes, lecture summaries for the **Co
 ##  Table of Contents
 
 * **[Lecture 1: Introduction & Basic Elements](./Communication_Systems_Notes.md)** 
-* **Lecture 2:** *(Coming soon... / 持续更新中)*
-* **Lecture 3:** *(Coming soon... / 持续更新中)*
+* **[Lecture 2: algorithm](./algorithm.md)**
+
 
 
  
